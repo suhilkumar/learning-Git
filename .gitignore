@@ -1,0 +1,9 @@
+errors.log
+ram.html
+* copy.html
+
+#  all the file you want to add then use *
+
+*.log
+
+.DS_Store
